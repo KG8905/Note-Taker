@@ -30,7 +30,7 @@ npm install
 Start the server:
 
 
-npm start
+npm run build
 Open your browser and go to:
 
 
